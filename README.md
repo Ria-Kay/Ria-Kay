@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 I'm currently working on learning how to designin websites of varying complexity, as well as web and mobile applications as part of my university course.
 
 My current progects include:
-- A childrens internet saftey website
+- A childrens internet saftey website (CI453 Website design)
 - A mobile market place application
 - A Web-based client application that uses the public API of the NASA Image and Video Library to search and browse images of NASA's space programme
