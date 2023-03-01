@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Ria 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ria-Kay)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ria-Kay)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Ria-Kay/Ria-Kay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on learning how to designin websites of varying complexity, as well as web and mobile applications as part of my university course.
+
+My current progects include:
+- A childrens internet saftey website
+- A mobile market place application
+- A Web-based client application that uses the public API of the NASA Image and Video Library to search and browse images of NASA's space programme
