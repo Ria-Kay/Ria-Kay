@@ -1,8 +1,9 @@
 ### Hi there, I'm Ria 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ria-Kay)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ria-Kay)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats-ria-kay.vercel.app//api/top-langs/?username=Ria-Kay)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ria-kay.vercel.app//api/top-langs/?username=Ria-Kay)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats-git-master-ria-kay.vercel.app/
+https://github-readme-stats-ria-kay.vercel.app/
 <!--
 **Ria-Kay/Ria-Kay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
