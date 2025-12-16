@@ -3,11 +3,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ria-Kay)](https://github.com/anuraghazra/github-readme-stats)
 
 
- 🔭 I’m currently working on:
+ I’m currently working on:
  A Chess piece dectection moel using YOLO v8, to identify chess pieces on a board.
  Furtheron, I woould like to expand my model into being capable of reading the loction of the pieces on the board and exporting this in a FEN format into Stockfish.
 
-- 🌱 I’m currently learning:
+ I’m currently learning:
 Using tools like Figma to more properly visuallise the design of my web and mobile probjects, you can look at some of my designs on my dribble.
 <!--
 **Ria-Kay/Ria-Kay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
