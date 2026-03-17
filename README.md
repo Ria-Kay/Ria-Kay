@@ -4,11 +4,12 @@
 
 
  I’m currently working on:
- A Chess piece dectection moel using YOLO v8, to identify chess pieces on a board.
- Furtheron, I woould like to expand my model into being capable of reading the loction of the pieces on the board and exporting this in a FEN format into Stockfish.
+ -Robotic arm to reset chess board.
+ -A web app to allow users to create "Social Media Alternate Universes" popularised in fandoms, the website allows users to create stories basssed off popular social media apps such as iMessage, Discord and Twitter.
+ -A portfolio web app boilerplate that allows users to easily watermark all the images of their artwork to disuade AI art theft.
 
  I’m currently learning:
-Using tools like Figma to more properly visuallise the design of my web and mobile probjects, you can look at some of my designs on my dribble.
+For my projects im learning how to use JS and React as well as using physchical components like microcontrolers.
 <!--
 **Ria-Kay/Ria-Kay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +22,6 @@ Using tools like Figma to more properly visuallise the design of my web and mobi
 - ⚡ Fun fact: ...
 -->
 My past projects are:
-- A childrens internet saftey website (CI453 Website design)
 - A Web-based client application that uses the public API of the NASA Image and Video Library to search and browse images of NASA's space programme
 - A web market place application
 - A pomodoro study app created for andriod users on android studio
