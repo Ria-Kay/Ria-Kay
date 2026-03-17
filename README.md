@@ -5,7 +5,9 @@
 
  I’m currently working on:
  -Robotic arm to reset chess board.
+ 
  -A web app to allow users to create "Social Media Alternate Universes" popularised in fandoms, the website allows users to create stories basssed off popular social media apps such as iMessage, Discord and Twitter.
+ 
  -A portfolio web app boilerplate that allows users to easily watermark all the images of their artwork to disuade AI art theft.
 
  I’m currently learning:
