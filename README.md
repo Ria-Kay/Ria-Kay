@@ -1,8 +1,5 @@
 ### Hi there, I'm Ria 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ria-Kay)](https://github.com/anuraghazra/github-readme-stats)
-
-
  I’m currently working on:
  -Robotic arm to reset chess board.
  
